@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Biblioteca JS TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaogabrielqa/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Joao Gabriel QA <gabrielaraujo18@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaogabrielqa/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/joaogabrielqa/js-tdd-course#readme"
+}
